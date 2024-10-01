@@ -9,5 +9,5 @@ target = 9
 print(two_sum(num, target))
 
 a = 2
-b = 2
+b = 23
 print(a + b)
