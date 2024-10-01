@@ -7,3 +7,7 @@ def two_sum(num, target):
 num = [1,2,3,4,5,6,7,8]
 target = 9
 print(two_sum(num, target))
+
+a = 2
+b = 2
+print(a + b)
